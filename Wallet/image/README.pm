@@ -1,1 +1,0 @@
-FCC Crypto Wallet Images
