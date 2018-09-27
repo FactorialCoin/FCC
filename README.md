@@ -27,6 +27,7 @@ Macintosh Install Pack (perl included):
 
   https://factorialcoin.nl/download/FCC_0122_Macintosh.rar
 
+<hr>
 
 GitHub Install:
 
@@ -35,6 +36,8 @@ Download the Domero Perl base from https://github.com/FactorialCoin/base/
 put perl/site/lib into your Perl's /site/lib directory.
 
 Dowload the FCC Wallet and/or Node from this github repository and start them with perl. 
+
+<hr>
 
 May the FCC take you down the rabbithole, say hello to Alice from me!
 
