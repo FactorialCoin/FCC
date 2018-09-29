@@ -36,7 +36,7 @@ Download the Domero Perl-Base from https://github.com/FactorialCoin/base/
 put perl/site/lib into your Perl's /site/lib directory.
 
 Dowload the FCC Wallet and/or Node from the github repository and start them with perl. 
-Only the Installer containce the Wallet and Node start scripts for all available Os's.
+Only the Installer containce the Wallet and Node start example scripts for all available Os's.
 <hr>
 
 May the FCC take you down the rabbithole, say hello to Alice from me!
