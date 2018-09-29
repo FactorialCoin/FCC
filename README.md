@@ -32,10 +32,13 @@ Macintosh Install Pack (perl included):
 GitHub Install:
 
 Download the Domero Perl-Base from https://github.com/FactorialCoin/base/
+<br>(zip) https://github.com/FactorialCoin/base/archive/master.zip
 
 put perl/site/lib into your Perl's /site/lib directory.
 
 Download the FCC Wallet and/or Node from the github repository and start them with perl. 
+<br>(zip) https://github.com/FactorialCoin/FCC/archive/master.zip
+
 Only the Installer containce the Wallet and Node start example scripts for all available Os's.
 <hr>
 
