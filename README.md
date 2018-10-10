@@ -14,14 +14,15 @@ FCC Blockchain Explorer: https://factorialcoin.nl:5152/
 
 Download Perl & FCC Install:
 
-Windows Install Pack (perl included):
-<br>(zip) https://factorialcoin.nl/download/FCC_0122_Windows.zip
+Windows Install Pack:
+<br>https://factorialcoin.nl:5153/download
 
-Linux Install Pack (perl included):
-<br>(tgz) https://factorialcoin.nl/download/FCC_0122_Linux.tar.gz
 
-Macintosh Install Pack (perl included):
-<br>(rar) https://factorialcoin.nl/download/FCC_0122_Macintosh.rar
+Linux Install Pack:
+<br>https://factorialcoin.nl:5153/download/linux
+
+Macintosh Install Pack:
+<br>https://factorialcoin.nl:5153/download/macintosh
 
 <hr>
 
