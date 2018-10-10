@@ -12,7 +12,7 @@ FCC Blockchain Explorer: https://factorialcoin.nl:5152/
 
 <hr>
 
-Download Perl & FCC Install:
+Download FCC Install:
 
 Windows Install Pack:
 <br>https://factorialcoin.nl:5153/download
