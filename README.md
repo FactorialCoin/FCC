@@ -15,14 +15,14 @@ FCC Blockchain Explorer: https://factorialcoin.nl:5152/
 Download FCC Install:
 
 Windows Install Pack:
-<br>https://factorialcoin.nl:5153/download
+<br>https://factorialcoin.nl/download
 
 
 Linux Install Pack:
-<br>https://factorialcoin.nl:5153/download/linux
+<br>https://factorialcoin.nl/download/linux
 
 Macintosh Install Pack:
-<br>https://factorialcoin.nl:5153/download/macintosh
+<br>https://factorialcoin.nl/download/macintosh
 
 <hr>
 
