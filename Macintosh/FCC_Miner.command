@@ -1,0 +1,1 @@
+#!/bin/shif [ ! -f installed.fcc ]; then  ./FCC_Install.commandficd minerperl fccminer.cgicd ..
