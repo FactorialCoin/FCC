@@ -8,7 +8,7 @@ You can earn FCC by mining it or running a node in which case you will get part 
 
 <hr>
 
-FCC Blockchain Explorer: https://factorialcoin.nl:5152/
+FCC Blockchain Explorer: <a target="_blank" href="https://factorialcoin.nl:5152/">https://factorialcoin.nl:5152/</a>
 
 <hr>
 
